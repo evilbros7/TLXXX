@@ -23,7 +23,7 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/evilbros7/TLXXX/#beta) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/evilbros7/TLXXX/master) 
 
 ### Dont Abuse The Repo ... this is intented to run in Small Places or For Short time 😐
 
