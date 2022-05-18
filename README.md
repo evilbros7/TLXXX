@@ -23,6 +23,8 @@
 
 ---
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/evilbros7/TLXXX/beta) 
+
 ### Dont Abuse The Repo ... this is intented to run in Small Places or For Short time 😐
 
 ## A Telegram Torrent , Direct Links (and yt-dlp) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
